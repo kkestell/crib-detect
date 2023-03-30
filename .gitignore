@@ -1,0 +1,7 @@
+data/training-data/*
+data/obj.data
+data/obj.names
+data/test.txt
+data/train.txt
+label-tool/Images/*
+label-tool/Labels/*
